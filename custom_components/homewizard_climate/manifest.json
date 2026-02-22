@@ -4,7 +4,7 @@
   "config_flow": true,
   "documentation": "https://github.com/Wffv9FNa/homewizard-climate-hass",
   "requirements": [],
-  "codeowners": ["@Wffv9FNa"],
+  "codeowners": ["@Wffv9FNa", "@giuseppe99barchetta", "@mepla", "@dennis1804"],
   "version": "1.2.0",
   "iot_class": "cloud_push",
   "icon": "mdi:fan"
