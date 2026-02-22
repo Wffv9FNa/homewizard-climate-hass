@@ -2,10 +2,10 @@
   "domain": "homewizard_climate",
   "name": "Homewizard Climate",
   "config_flow": true,
-  "documentation": "https://github.com/giuseppe99barchetta/homewizard-climate-hass",
+  "documentation": "https://github.com/Wffv9FNa/homewizard-climate-hass",
   "requirements": [],
-  "codeowners": ["@giuseppe99barchetta","@mepla", "@dennis1804"],
-  "version": "1.1.2",
+  "codeowners": ["@Wffv9FNa"],
+  "version": "1.2.0",
   "iot_class": "cloud_push",
   "icon": "mdi:fan"
 }
